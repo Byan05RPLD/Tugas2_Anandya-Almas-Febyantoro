@@ -31,3 +31,4 @@ kumpulan implementasi sumber terbuka dari berbagai algoritma yang diimplementasi
 2. Buatlah sebuah aktifitas sehari-hari menggunakan kanban board selama 4 
 minggu (2 minggu ke belakang dan 2 minggu ke depan), minimal struktur 
 kanban terdiri dari To Do, In Progress, dan Done!
+https://trello.com/invite/b/66d81a3b84c1b3c131f03d65/ATTI33eec7085819916182f032ff57e77a998B379994/kegiatan-sehari-hari
